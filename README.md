@@ -64,8 +64,3 @@ Each group needs to submit the link to the owner repo and all the forked repos.
 ## LICENSE
 
 Apache License 2.0
-
-Steps we follwed :
-
---> Different branches made 
---> Readme file introduced
