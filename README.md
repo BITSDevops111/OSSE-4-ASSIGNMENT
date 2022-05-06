@@ -7,66 +7,44 @@ OSSE-4-ASSIGNMENT
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+Computer Science & Information Systems
+Open Source Software Engineering – Assignment
+Submission Deadline: 8th May 2022 (Sunday)
+Max Marks: 5
+[Note: This assignment has to be done in groups of 3 to 4 students]
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
 
-## Table of Contents (Optional)
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
+## Table of Contents 
+
+- [Objective](#Objective)
+- [Assignment Task](#Assignment Task)
+- [Expected Deliverables](#Expected Deliverables)
 - [License](#license)
 
-## Installation
+## Objective
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+: Contributing to Open Source Softwar
 
-## Usage
+Technologies used: Git, GitHub, GitHub Desktop, Eclipse IDE / Visual Studio Code / Atom
 
-Provide instructions and examples for use. Include screenshots as needed.
+## Assignment Task
+One of the collaborator is required to create a new software project repository on GitHub and others need to fork the same in order to contribute to it.
+ All collaborators should create different branches in order to make their changes.
+ Collaborate and contribute to the development of ReadMe.md file. You may choose to make use of Markdown language to write the same.
+{You may choose an appropriate IDE (Atom/ Visual Studio Code) to work on the same}
+ Collaborate and contribute towards the development of GitHub page for your project.
+{You may choose an appropriate IDE (Atom/ Visual Studio Code) to work on the same}
+ Collaborate and contribute to the development of the software code. You may choose to work on a dummy project (with atleast 3 or 5 files) or assignment project of any other course in which you may be currently enrolled.
+ In case of Java project, you may choose to work using Eclipse IDE.
+ In case of Python project, you may choose Visual Studio Code.
+ Alternatively, you may also use GitHub Desktop App or Git for the same.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+## Expected Deliverables
+Each group needs to submit the link to the owner repo and all the forked repos.
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+ Submit snapshot of all the contributors and contributions made by them during the entire duration of the assignment.
+ Give snapshots of atleast 4 pull requests by each contributor and identify the topmost contributor.
+ Analyze the files that have been proposed with changes by each pull request and take a snapshot of the proposed changes.
 
-## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
-
-## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
