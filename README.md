@@ -19,8 +19,8 @@ Max Marks: 5
 ## Table of Contents 
 
 - [Objective](#Objective)
-- [Assignment Task](#Assignment Task)
-- [Expected Deliverables](#Expected Deliverables)
+- [Assignment Task](#Assignment_Task)
+- [Expected Deliverables](#Expected_Deliverables)
 - [License](#license)
 
 ## Objective
