@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## OSSE Asignment
 
-You can use the [editor on GitHub](https://github.com/BITSDevops111/OSSE-4-ASSIGNMENT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+OSSE-4-ASSIGNMENT
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Twitter Badge LinkedIn Badge
+
+Description
+Computer Science & Information Systems Open Source Software Engineering – Assignment Submission Deadline: 8th May 2022 (Sunday) Max Marks: 5 [Note: This assignment has to be done in groups of 3 to 4 students]
 
 ### Markdown
 
