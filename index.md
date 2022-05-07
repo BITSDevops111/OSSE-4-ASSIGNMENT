@@ -7,34 +7,45 @@ Twitter Badge LinkedIn Badge
 Description
 Computer Science & Information Systems Open Source Software Engineering – Assignment Submission Deadline: 8th May 2022 (Sunday) Max Marks: 5 [Note: This assignment has to be done in groups of 3 to 4 students]
 
-### Markdown
+### Table of Contents
+Objective
+Assignment Task
+Expected Deliverables
+License
+Objective
+Contributing to Open Source Software
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Technologies used: Git, GitHub, GitHub Desktop, Eclipse IDE / Visual Studio Code / Atom
 
-```markdown
-Syntax highlighted code block
+Assignment_Task
+One of the collaborator is required to create a new software project repository on GitHub and others need to fork the same in order to contribute to it.
 
-# Header 1
-## Header 2
-### Header 3
+ All collaborators should create different branches in order to make their changes.
 
-- Bulleted
-- List
+ Collaborate and contribute to the development of ReadMe.md file. You may choose to make use of Markdown language to write the same.
 
-1. Numbered
-2. List
+{You may choose an appropriate IDE (Atom/ Visual Studio Code) to work on the same}
 
-**Bold** and _Italic_ and `Code` text
+ Collaborate and contribute towards the development of GitHub page for your project.
 
-[Link](url) and ![Image](src)
-```
+{You may choose an appropriate IDE (Atom/ Visual Studio Code) to work on the same}
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+ Collaborate and contribute to the development of the software code. You may choose to work on a dummy project (with atleast 3 or 5 files) or assignment project of any other course in which you may be currently enrolled.
 
-### Jekyll Themes
+ In case of Java project, you may choose to work using Eclipse IDE.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BITSDevops111/OSSE-4-ASSIGNMENT/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ In case of Python project, you may choose Visual Studio Code.
 
-### Support or Contact
+ Alternatively, you may also use GitHub Desktop App or Git for the same.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Expected_Deliverables
+Each group needs to submit the link to the owner repo and all the forked repos.
+
+ Submit snapshot of all the contributors and contributions made by them during the entire duration of the assignment.
+
+ Give snapshots of atleast 4 pull requests by each contributor and identify the topmost contributor.
+
+ Analyze the files that have been proposed with changes by each pull request and take a snapshot of the proposed changes.
+
+LICENSE
+Apache License 2.0
