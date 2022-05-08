@@ -26,7 +26,7 @@
             header("Location: index.php");
         } else {
             echo "<div class='form'>
-                  <h3>Incorrect Username/password.</h3><br/>
+                  <h3>Invalid Username or incorrect password.</h3><br/>
                   <p class='link'>Click here to <a href='login.php'>Login</a> again.</p>
                   </div>";
         }
