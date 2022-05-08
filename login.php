@@ -39,7 +39,7 @@
         <input type="submit" value="Login" name="submit" class="login-button"/>
         <br>
         <br>
-        <div class="text-center">Dont have an account? <a href="registration.php">Register Here</a></div>
+        <div class="text-center">Not having an account? <a href="registration.php">Register Here</a></div>
   </form>
 <?php
     }
