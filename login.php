@@ -26,7 +26,7 @@
             header("Location: index.php");
         } else {
             echo "<div class='form'>
-                  <h3>Incorrect Username/password.</h3><br/>
+                  <h3>Invalid Username or incorrect password.</h3><br/>
                   <p class='link'>Click here to <a href='login.php'>Login</a> again.</p>
                   </div>";
         }
@@ -39,7 +39,7 @@
         <input type="submit" value="Login" name="submit" class="login-button"/>
         <br>
         <br>
-        <div class="text-center">Dont have an account? <a href="registration.php">Register Here</a></div>
+        <div class="text-center">Not having an account? <a href="registration.php">Register Here</a></div>
   </form>
 <?php
     }
